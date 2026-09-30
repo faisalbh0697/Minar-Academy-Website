@@ -95,8 +95,11 @@ export default function Footer() {
             <Link href="/terms">
               <span className="hover:underline">Refund Policy</span>
             </Link>
-            <Link href="/terms">
+            <Link href="/privacy-policy">
               <span className="hover:underline">Privacy Policy</span>
+            </Link>
+            <Link href="/account-deletion">
+              <span className="hover:underline">Account Deletion</span>
             </Link>
           </div>
           <p className="mt-2 md:mt-0">
